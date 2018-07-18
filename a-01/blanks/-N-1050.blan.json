@@ -1,38 +1,59 @@
 {
     "Ar36": {
-        "error": 5.527118914917284e-07,
+        "error": 3.2642590734739116e-07,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": ""
+                "exclude": "ok",
+                "record_id": "ba-01-N-455",
+                "uuid": "bae6f52f-ac1f-4ad9-8a9d-b3fd84eec466"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-456",
+                "uuid": "7779ab28-23e9-4a8e-8984-b0127c1aa1f5"
             }
         ],
-        "value": 2.146408408392796e-06
+        "reviewed": true,
+        "value": 1.7987160004039067e-06
     },
     "Ar38": {
-        "error": 7.628978714672297e-07,
+        "error": 8.95728184435943e-07,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": ""
+                "exclude": "ok",
+                "record_id": "ba-01-N-455",
+                "uuid": "bae6f52f-ac1f-4ad9-8a9d-b3fd84eec466"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-456",
+                "uuid": "7779ab28-23e9-4a8e-8984-b0127c1aa1f5"
             }
         ],
-        "value": 4.5990724227025576e-07
+        "reviewed": true,
+        "value": -1.2228510150454082e-07
     },
     "Ar40": {
-        "error": 3.4338126631250483e-06,
+        "error": 3.824181822832693e-06,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": ""
+                "exclude": "ok",
+                "record_id": "ba-01-N-455",
+                "uuid": "bae6f52f-ac1f-4ad9-8a9d-b3fd84eec466"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-456",
+                "uuid": "7779ab28-23e9-4a8e-8984-b0127c1aa1f5"
             }
         ],
-        "value": 8.529234713557031e-05
+        "reviewed": true,
+        "value": 2.8600983116729857e-05
     }
 }
