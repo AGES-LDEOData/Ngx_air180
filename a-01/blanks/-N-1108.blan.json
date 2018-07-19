@@ -1,38 +1,59 @@
 {
     "Ar36": {
-        "error": 4.943791413644262e-07,
+        "error": 3.4032845753235803e-07,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-464"
+                "exclude": "ok",
+                "record_id": "ba-01-N-465",
+                "uuid": "a4b423f3-627d-4b52-a1be-e70feebdbafe"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-466",
+                "uuid": "1380413c-05e2-4657-8fc7-bc6a7f05a96a"
             }
         ],
-        "value": 2.7927264329544657e-06
+        "reviewed": true,
+        "value": 2.3706047925651745e-06
     },
     "Ar38": {
-        "error": 4.050140364791999e-07,
+        "error": 7.711635291166411e-07,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-464"
+                "exclude": "ok",
+                "record_id": "ba-01-N-465",
+                "uuid": "a4b423f3-627d-4b52-a1be-e70feebdbafe"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-466",
+                "uuid": "1380413c-05e2-4657-8fc7-bc6a7f05a96a"
             }
         ],
-        "value": 9.196814110558246e-07
+        "reviewed": true,
+        "value": -7.105955943140577e-07
     },
     "Ar40": {
-        "error": 1.972004863650242e-06,
+        "error": 1.5619998329562492e-06,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-464"
+                "exclude": "ok",
+                "record_id": "ba-01-N-465",
+                "uuid": "a4b423f3-627d-4b52-a1be-e70feebdbafe"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-466",
+                "uuid": "1380413c-05e2-4657-8fc7-bc6a7f05a96a"
             }
         ],
-        "value": 3.404660744695329e-05
+        "reviewed": true,
+        "value": 1.400091936996666e-05
     }
 }
