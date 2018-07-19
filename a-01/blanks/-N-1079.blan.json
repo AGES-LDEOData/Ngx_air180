@@ -1,38 +1,59 @@
 {
     "Ar36": {
-        "error": 5.12946493830892e-07,
+        "error": 8.288741806308679e-07,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": ""
+                "exclude": "ok",
+                "record_id": "ba-01-N-461",
+                "uuid": "9a52ed8f-7b1f-4019-acfc-67f041de7408"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-462",
+                "uuid": "018b813b-aa68-48d0-bc04-df4ffd1300c6"
             }
         ],
-        "value": 3.2642634406501628e-06
+        "reviewed": true,
+        "value": 2.762072826391929e-06
     },
     "Ar38": {
-        "error": 6.188653161075112e-07,
+        "error": 7.938323233606774e-07,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": ""
+                "exclude": "ok",
+                "record_id": "ba-01-N-461",
+                "uuid": "9a52ed8f-7b1f-4019-acfc-67f041de7408"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-462",
+                "uuid": "018b813b-aa68-48d0-bc04-df4ffd1300c6"
             }
         ],
-        "value": 3.6028915391988223e-07
+        "reviewed": true,
+        "value": 4.117188139625882e-07
     },
     "Ar40": {
-        "error": 2.0169759068628225e-06,
+        "error": 2.781248884943204e-05,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": ""
+                "exclude": "ok",
+                "record_id": "ba-01-N-461",
+                "uuid": "9a52ed8f-7b1f-4019-acfc-67f041de7408"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-462",
+                "uuid": "018b813b-aa68-48d0-bc04-df4ffd1300c6"
             }
         ],
-        "value": 1.1720670625384754e-05
+        "reviewed": true,
+        "value": 0.00017168428468008681
     }
 }
