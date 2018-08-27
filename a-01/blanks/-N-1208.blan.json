@@ -1,74 +1,116 @@
 {
     "Ar36L1": {
-        "error": 4.823101934725876e-07,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-565"
+                "exclude": "ok",
+                "record_id": "ba-01-N-560",
+                "uuid": "70afd236-6fa6-479d-99df-2a55c399ed09"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-566",
+                "uuid": "59cad7e9-7c56-490f-8662-205a16bd2f59"
             }
         ],
-        "value": 2.3727046375438912e-06
+        "reviewed": true,
+        "value": 0.0
     },
     "Ar36L2": {
-        "error": 0.8039216092150614,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-565"
+                "exclude": "ok",
+                "record_id": "ba-01-N-560",
+                "uuid": "70afd236-6fa6-479d-99df-2a55c399ed09"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-566",
+                "uuid": "59cad7e9-7c56-490f-8662-205a16bd2f59"
             }
         ],
-        "value": 51.08582764849313
+        "reviewed": true,
+        "value": 0.0
     },
     "Ar37L1": {
         "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-565"
+                "exclude": "ok",
+                "record_id": "ba-01-N-560",
+                "uuid": "70afd236-6fa6-479d-99df-2a55c399ed09"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-566",
+                "uuid": "59cad7e9-7c56-490f-8662-205a16bd2f59"
             }
         ],
+        "reviewed": true,
         "value": 0.0
     },
     "Ar38AX": {
         "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-565"
+                "exclude": "ok",
+                "record_id": "ba-01-N-560",
+                "uuid": "70afd236-6fa6-479d-99df-2a55c399ed09"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-566",
+                "uuid": "59cad7e9-7c56-490f-8662-205a16bd2f59"
             }
         ],
-        "value": -1.004682434e-06
+        "reviewed": true,
+        "value": 0.0
     },
     "Ar39H1": {
-        "error": 2.831879144549762e-07,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-565"
+                "exclude": "ok",
+                "record_id": "ba-01-N-560",
+                "uuid": "70afd236-6fa6-479d-99df-2a55c399ed09"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-566",
+                "uuid": "59cad7e9-7c56-490f-8662-205a16bd2f59"
             }
         ],
-        "value": 6.953901507043608e-07
+        "reviewed": true,
+        "value": 0.0
     },
     "Ar40H2": {
-        "error": 5.432823742458831e-07,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-565"
+                "exclude": "ok",
+                "record_id": "ba-01-N-560",
+                "uuid": "70afd236-6fa6-479d-99df-2a55c399ed09"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-566",
+                "uuid": "59cad7e9-7c56-490f-8662-205a16bd2f59"
             }
         ],
-        "value": 1.4823923122066963e-05
+        "reviewed": true,
+        "value": 0.0
     }
 }

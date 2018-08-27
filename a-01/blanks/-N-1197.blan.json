@@ -1,74 +1,116 @@
 {
     "Ar36L1": {
-        "error": 3.52407521982441e-07,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-559"
+                "exclude": "ok",
+                "record_id": "ba-01-N-560",
+                "uuid": "70afd236-6fa6-479d-99df-2a55c399ed09"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-566",
+                "uuid": "59cad7e9-7c56-490f-8662-205a16bd2f59"
             }
         ],
-        "value": 2.3813315634874664e-06
+        "reviewed": true,
+        "value": 0.0
     },
     "Ar36L2": {
-        "error": 1.4316596768987375,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-559"
+                "exclude": "ok",
+                "record_id": "ba-01-N-560",
+                "uuid": "70afd236-6fa6-479d-99df-2a55c399ed09"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-566",
+                "uuid": "59cad7e9-7c56-490f-8662-205a16bd2f59"
             }
         ],
-        "value": 71.65567532795941
+        "reviewed": true,
+        "value": 0.0
     },
     "Ar37L1": {
         "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-559"
+                "exclude": "ok",
+                "record_id": "ba-01-N-560",
+                "uuid": "70afd236-6fa6-479d-99df-2a55c399ed09"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-566",
+                "uuid": "59cad7e9-7c56-490f-8662-205a16bd2f59"
             }
         ],
+        "reviewed": true,
         "value": 0.0
     },
     "Ar38AX": {
         "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-559"
+                "exclude": "ok",
+                "record_id": "ba-01-N-560",
+                "uuid": "70afd236-6fa6-479d-99df-2a55c399ed09"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-566",
+                "uuid": "59cad7e9-7c56-490f-8662-205a16bd2f59"
             }
         ],
-        "value": -1.3966246289999998e-06
+        "reviewed": true,
+        "value": 0.0
     },
     "Ar39H1": {
-        "error": 2.9035474259400414e-07,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-559"
+                "exclude": "ok",
+                "record_id": "ba-01-N-560",
+                "uuid": "70afd236-6fa6-479d-99df-2a55c399ed09"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-566",
+                "uuid": "59cad7e9-7c56-490f-8662-205a16bd2f59"
             }
         ],
-        "value": 1.361954936762033e-06
+        "reviewed": true,
+        "value": 0.0
     },
     "Ar40H2": {
-        "error": 2.6274113790814675e-06,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-559"
+                "exclude": "ok",
+                "record_id": "ba-01-N-560",
+                "uuid": "70afd236-6fa6-479d-99df-2a55c399ed09"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "ba-01-N-566",
+                "uuid": "59cad7e9-7c56-490f-8662-205a16bd2f59"
             }
         ],
-        "value": 0.00012648887938861172
+        "reviewed": true,
+        "value": 0.0
     }
 }
