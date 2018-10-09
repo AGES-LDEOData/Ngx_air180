@@ -1,0 +1,100 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 1442,
+    "analysis_type": "air",
+    "analyst_name": "root",
+    "collection_version": "1.0:1.0",
+    "comment": "",
+    "commit": "966e10fd5acb2b2015db769c48afe52f3ca6cd23",
+    "conditionals": null,
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "AX": {
+            "deflection": null,
+            "gain": null
+        },
+        "H1": {
+            "deflection": null,
+            "gain": null
+        },
+        "H2": {
+            "deflection": null,
+            "gain": null
+        },
+        "L1": {
+            "deflection": null,
+            "gain": null
+        },
+        "L2": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "BABABA_multi",
+    "extraction": "ngx_air_x1.py",
+    "identifier": "a-01-N",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 1,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar36L1": {
+            "detector": "L1",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L1",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "AX",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H2",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "Ngx",
+    "material": "Gas",
+    "measurement": "ngx_ar_multi_hop.py",
+    "post_equilibration": "ngx_pump_air.py",
+    "post_measurement": "ngx_pump_ms.py",
+    "principal_investigator": "AGES-LDEO",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Ngx_air180",
+    "sample": "air",
+    "source": {
+        "emission": 701.27,
+        "trap": 200.01222
+    },
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "timestamp": "2018-10-09T19:17:00.593226",
+    "tripped_conditional": null,
+    "username": "root",
+    "uuid": "03d1fe30-5a61-4b1b-87ea-e0b2ea433f3c",
+    "whiff_result": null
+}
